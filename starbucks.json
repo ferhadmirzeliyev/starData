@@ -3,7 +3,7 @@
     "main": [
       {
         "id": 1,
-        "img": "../src/Assets/Img/handholding.webp",
+        "img": "./../src/Assets/Img/handholding.webp",
         "headtext": "New Year, New Yays",
         "midtext": "Jump-start your year with a week full of offers in the Starbucks app.*",
         "btn": "Open the app",

@@ -1,51 +1,40 @@
-
-  {
-    "main": [
-      {
-        "id": 1,
-        "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-88469.jpg",
-        "headtext": "New Year, New Yays",
-        "midtext": "Jump-start your year with a week full of offers in the Starbucks app.*",
-        "btn": "Open the app",
-        "txtcolor": "#1e3932",
-        "bgcolor": "#bbf2d1"
-      },
-      {
-        "id": 2,
-        "img": "././src/Assets/Img/Img/137-88290.jpg",
-        "headtext": "Pistachi-Yum",
-        "midtext": "Creamy, cozy vibes make the Pistachio Latte a must-have this season.",
-        "btn": "Order Now",
-        "txtcolor": "#fff",
-        "bgcolor": "#337481"
-      },
-      {
-        "id": 3,
-        "img": "././src/Assets/Img/Img/137-88122.jpg",
-        "headtext": "Savory and satisfying",
-        "midtext": "Grab a subtly sweet Chicken, Maple Butter & Egg Sandwich on the way.",
-        "btn": "Order Now",
-        "txtcolor": "#1e3932",
-        "bgcolor": "#efabfc"
-      },
-      {
-        "id": 4,
-        "img": "../src/Assets/Img/Img/137-88294.jpg",
-        "headtext": "Savory and satisfying",
-        "midtext": "Grab a subtly sweet Chicken, Maple Butter & Egg Sandwich on the way.",
-        "btn": "Order Now",
-        "txtcolor": "#1e3932",
-        "bgcolor": "#99b5ca"
-      },
-      {
-        "id": 5,
-        "img": "../src/Assets/Img/Img/137-88298.jpg",
-        "headtext": "Send Starbucks Cards in Venmo",
-        "midtext": "Send a little treat to someone you care about and brighten their day. You can now send Starbucks eGifts directly through Venmo.**",
-        "btn": "View in Venmo",
-        "txtcolor": "#1e3932",
-        "bgcolor": "#d4e9e2"
-      }
-    ]
-  }
-
+{
+  "main": [
+    {
+      "id": 1,
+      "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-88469.jpg",
+      "headtext": "Introducing Oleato™",
+      "midtext": "A luxuriously smooth coffee experience perfectly balanced with Partanna® extra virgin olive oil.",
+      "btn": "Order Now",
+      "txtcolor": "#1e3932",
+      "bgcolor": "#cfd84d"
+    },
+    {
+      "id": 2,
+      "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-88294.jpg",
+      "headtext": "Savory and satisfying",
+      "midtext": "Grab a subtly sweet Chicken, Maple Butter & Egg Sandwich on the way.",
+      "btn": "Order Now",
+      "txtcolor": "#1e3932",
+      "bgcolor": "#99b5ca"
+    },
+    {
+      "id": 3,
+      "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-88488.jpg",
+      "headtext": "Our latest collection",
+      "midtext": "Damon Brown celebrates Black culture and his take on community using surprising color palettes, angles, and shapes in this artist series.",
+      "btn": "Meet Damon",
+      "txtcolor": "#1e3932",
+      "bgcolor": "#cfd84d"
+    },
+    {
+      "id": 4,
+      "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-88373.jpg",
+      "headtext": "Your go-to brought to you",
+      "midtext": "Enjoy 20% off Starbucks orders of $15+ on DoorDash. Offer valid 1/22-2/4. New customers only. Max discount up to $5. Terms apply.*",
+      "btn": "Order Now",
+      "txtcolor": "#fff",
+      "bgcolor": "#1e3932"
+    }
+  ]
+}

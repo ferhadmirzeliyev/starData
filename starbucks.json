@@ -3,7 +3,7 @@
     "main": [
       {
         "id": 1,
-        "img": "./../src/Assets/Img/handholding.webp",
+        "img": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-88469.jpg",
         "headtext": "New Year, New Yays",
         "midtext": "Jump-start your year with a week full of offers in the Starbucks app.*",
         "btn": "Open the app",
@@ -12,7 +12,7 @@
       },
       {
         "id": 2,
-        "img": "../src/Assets/Img/Img/137-88290.jpg",
+        "img": "././src/Assets/Img/Img/137-88290.jpg",
         "headtext": "Pistachi-Yum",
         "midtext": "Creamy, cozy vibes make the Pistachio Latte a must-have this season.",
         "btn": "Order Now",
@@ -21,7 +21,7 @@
       },
       {
         "id": 3,
-        "img": "../src/Assets/Img/Img/137-88122.jpg",
+        "img": "././src/Assets/Img/Img/137-88122.jpg",
         "headtext": "Savory and satisfying",
         "midtext": "Grab a subtly sweet Chicken, Maple Butter & Egg Sandwich on the way.",
         "btn": "Order Now",

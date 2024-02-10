@@ -36,5 +36,24 @@
       "txtcolor": "#fff",
       "bgcolor": "#1e3932"
     }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "name": "Oleato™",
+      "img": "./../src/components/img/drink1.jpg",
+      "more": [
+        {
+          "type": "null",
+          "name": "Oleato Golden Foam™ Cold Brew",
+          "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_GoldenFoam_ColdBrew.jpg?impolicy=1by1_tight_288"
+        },
+        {
+          "type": "null",
+          "name": "Oleato™ Caffé Latte with Oatmilk",
+          "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_CaffeLatte.jpg?impolicy=1by1_tight_288"
+        }
+      ]
+    }
   ]
 }

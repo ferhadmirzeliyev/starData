@@ -16,7 +16,7 @@
       "midtext": "Grab a subtly sweet Chicken, Maple Butter & Egg Sandwich on the way.",
       "btn": "Order Now",
       "txtcolor": "#1e3932",
-      "bgcolor": "##a5c4dc"
+      "bgcolor": "#a5c4dc"
     },
     {
       "id": 3,
@@ -37,23 +37,25 @@
       "bgcolor": "#1e3932"
     }
   ],
-  "drinks": [
-    {
-      "id": 1,
-      "name": "Oleato™",
-      "img": "./../src/components/img/drink1.jpg",
-      "more": [
-        {
-          "type": "null",
-          "name": "Oleato Golden Foam™ Cold Brew",
-          "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_GoldenFoam_ColdBrew.jpg?impolicy=1by1_tight_288"
-        },
-        {
-          "type": "null",
-          "name": "Oleato™ Caffé Latte with Oatmilk",
-          "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_CaffeLatte.jpg?impolicy=1by1_tight_288"
-        }
-      ]
-    }
-  ]
+  "menu": {
+    "drinks": [
+      {
+        "id": 1,
+        "name": "Oleato™",
+        "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_GoldenFoam_ColdBrew.jpg?impolicy=1by1_tight_288",
+        "more": [
+          {
+            "type": "null",
+            "name": "Oleato Golden Foam™ Cold Brew",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_GoldenFoam_ColdBrew.jpg?impolicy=1by1_tight_288"
+          },
+          {
+            "type": "null",
+            "name": "Oleato™ Caffé Latte with Oatmilk",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_CaffeLatte.jpg?impolicy=1by1_tight_288"
+          }
+        ]
+      }
+    ]
+  }
 }

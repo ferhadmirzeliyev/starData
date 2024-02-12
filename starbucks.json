@@ -38,13 +38,7 @@
     }
   ],
   "menu": {
-    
     "drinks": [
-      {
-        "nanoid": "Drinks"
-
-      },
-     
       {
         "id": 1,
         "name": "Oleato™",

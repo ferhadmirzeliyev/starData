@@ -38,7 +38,7 @@
     }
   ],
   "menu": {
-    "drinks": [
+    "Drinks": [
       {
         "id": 1,
         "name": "Oleato™",
@@ -85,7 +85,9 @@
         "id": 7,
         "name": "Iced Teas",
         "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190531_IcedBlackTea.jpg?impolicy=1by1_tight_288"
-      },
+      }
+    ],
+    "Food": [
       {
         "id": 8,
         "name": "Cold Drinks",
@@ -115,7 +117,9 @@
         "id": 13,
         "name": "Snacks & Sweets",
         "img": "https://globalassets.starbucks.com/digitalassets/products/food/SBX20210825_MadeleineCakes.jpg?impolicy=1by1_tight_288"
-      },
+      }
+    ],
+    "At Home Coffee": [
       {
         "id": 14,
         "name": "Whole Bean",
@@ -126,11 +130,14 @@
         "name": "Ground",
         "img": "https://globalassets.starbucks.com/digitalassets/products/at-home/SBX20230721_ChristmasBlend-2023-Ground.jpg?impolicy=1by1_tight_288"
       },
+
       {
         "id": 16,
         "name": "VIA® Instant",
         "img": "https://globalassets.starbucks.com/digitalassets/products/at-home/SBX20190715_ViaInstantSweetenedIcedCoffee.jpg?impolicy=1by1_tight_288"
-      },
+      }
+    ],
+    "Merchandise": [
       {
         "id": 17,
         "name": "Cold Cups",

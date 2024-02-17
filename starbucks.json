@@ -38,7 +38,7 @@
     }
   ],
   "menu": {
-    "Drinks": [
+    "drinks": [
       {
         "id": 1,
         "name": "Oleato™",

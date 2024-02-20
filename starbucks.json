@@ -86,12 +86,13 @@
         "name": "Iced Teas",
         "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190531_IcedBlackTea.jpg?impolicy=1by1_tight_288"
       },
-
       {
         "id": 8,
         "name": "Cold Drinks",
         "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221216_FrozenPineapplePassionfruitRefresherLemonade.jpg?impolicy=1by1_tight_288"
-      },
+      }
+    ],
+    "Foods": [
       {
         "id": 9,
         "name": "Hot Breakfast",
@@ -116,7 +117,9 @@
         "id": 13,
         "name": "Snacks & Sweets",
         "img": "https://globalassets.starbucks.com/digitalassets/products/food/SBX20210825_MadeleineCakes.jpg?impolicy=1by1_tight_288"
-      },
+      }
+    ],
+    "At home cofee": [
       {
         "id": 14,
         "name": "Whole Bean",
@@ -131,7 +134,9 @@
         "id": 16,
         "name": "VIA® Instant",
         "img": "https://globalassets.starbucks.com/digitalassets/products/at-home/SBX20190715_ViaInstantSweetenedIcedCoffee.jpg?impolicy=1by1_tight_288"
-      },
+      }
+    ],
+    "Merchandise": [
       {
         "id": 17,
         "name": "Cold Cups",
